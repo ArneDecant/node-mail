@@ -1,0 +1,8 @@
+{
+    "user": "emailnodejs@gmail.com",
+    "password": "test0000",
+    "imap": {
+        "host": "imap.gmail.com",
+        "port": 993
+    }
+}
